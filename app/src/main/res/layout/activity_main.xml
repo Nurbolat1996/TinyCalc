@@ -32,6 +32,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#6b6a6a"
+            android:onClick="onClickButton"
             android:text="AC"
             />
 
@@ -43,6 +44,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#6b6a6a"
+            android:onClick="onClickButton"
             android:text="+/-"
             />
 
@@ -54,6 +56,7 @@
             android:background="#6b6a6a"
             android:text="%"
             android:textColor="#FFFFFF"
+            android:onClick="onClickButton"
             android:textSize="24sp" />
 
         <Button
@@ -64,6 +67,7 @@
             android:layout_weight="1"
             android:textSize="24sp"
             android:background="#f3a23b"
+            android:onClick="onClickButton"
             android:text="/"
             />
 
@@ -84,6 +88,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="7"
             />
 
@@ -95,6 +100,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="8"
             />
 
@@ -106,6 +112,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="9"
             />
 
@@ -117,6 +124,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#f3a23b"
+            android:onClick="onClickButton"
             android:text="*"
             />
 
@@ -137,6 +145,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="4"
             />
 
@@ -148,6 +157,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="5"
             />
 
@@ -159,6 +169,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="6"
             />
 
@@ -170,6 +181,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#f3a23b"
+            android:onClick="onClickButton"
 
             android:text="-"
             />
@@ -192,6 +204,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="1"
             />
 
@@ -203,6 +216,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="2"
             />
 
@@ -214,6 +228,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="3"
             />
 
@@ -225,6 +240,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#f3a23b"
+            android:onClick="onClickButton"
             android:text="+"
             />
 
@@ -245,6 +261,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="0"
             />
 
@@ -256,6 +273,7 @@
             android:textSize="24sp"
             android:textColor="#FFFFFF"
             android:background="#848383"
+            android:onClick="onClickButton"
             android:text="."
             />
 
@@ -267,6 +285,7 @@
             android:textSize="24sp"
             android:background="#f3a23b"
             android:textColor="#FFFFFF"
+            android:onClick="onClickButton"
             android:text="="
             />
 
